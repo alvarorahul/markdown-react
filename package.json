@@ -1,0 +1,29 @@
+{
+    "name": "markdown-react",
+    "author": {
+        "name": "Alvaro Dias",
+        "url": "http://alvarodias.org"
+    },
+    "homepage": "https://github.com/alvarorahul/markdown-react/blob/master/README.md",
+    "version": "0.0.1",
+    "license": "MIT",
+    "description": "A library that converts markdown into a React component.",
+    "keywords": [
+        "React",
+        "markdown"
+    ],
+    "bugs": {
+        "url": "https://github.com/alvarorahul/markdown-react/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alvarorahul/markdown-react.git"
+    },
+    "scripts": {
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "typings": "1.4.0"
+    }
+}
